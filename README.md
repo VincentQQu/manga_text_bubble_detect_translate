@@ -12,8 +12,7 @@ The text bubble detector is effective while the OCR is not effective (especially
 
 ### Testing Results
 
-![Example 1](https://github.com/VincentQQu/manga_text_bubble_detect_translate/blob/main/wd_lab/v4_13600/%23cont/003l_cont.jpg)
-![Example 2](https://github.com/VincentQQu/manga_text_bubble_detect_translate/blob/main/wd_lab/v4_13600/%23cont/003r_cont.jpg)
+![Example 1](https://github.com/VincentQQu/manga_text_bubble_detect_translate/blob/main/wd_lab/v4_13600/%23cont/003l_cont.jpg) ![Example 2](https://github.com/VincentQQu/manga_text_bubble_detect_translate/blob/main/wd_lab/v4_13600/%23cont/003r_cont.jpg)
 
 ### How to Use
 You can see some example outputs in exds/v4_13600/
