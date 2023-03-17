@@ -1,4 +1,4 @@
-# manga_text_bubble_detect_translate
+# Manga Text Bubble Detector to Translate
 This is a repository for a deep learning model that can detect text bubbles in manga and feed them into a translator.
 
 
@@ -10,8 +10,8 @@ This is a repository for a deep learning model that can detect text bubbles in m
 
 The text bubble detector is effective while the OCR is not effective (especially for vertical Japanese). Therefore, the translation result is not good.
 
-
-
+![alt text](003l_cont.jpg "Title")
+![alt text](003r_cont.jpg "Title")
 
 ### How to Use
 You can see some example outputs in exds/v4_13600/
