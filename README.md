@@ -4,7 +4,7 @@ This is a repository for a deep learning model that can detect text bubbles in m
 
 ### Work Flow
 1. single manga page =>
-2. text bubble detector to crop text bubbles (UNet trained with personal dataset and manga101) =>
+2. text bubble detector to crop text bubbles (UNet trained with personal dataset and manga109(http://www.manga109.org/en/)) =>
 3. optical character recognition engine to extract text from bubbles(tesseract OCR) => 
 4. google translate API
 
