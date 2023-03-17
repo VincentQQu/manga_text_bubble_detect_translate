@@ -11,8 +11,8 @@ This is a repository for a deep learning model that can detect text bubbles in m
 The text bubble detector is effective while the OCR is not effective (especially for vertical Japanese). Therefore, the translation result is not good.
 
 
-![Alt text](./wd_lab/v4_13600/#cont/003r_cont.jpg?raw=true "Title")
-![alt text](https://github.com/VincentQQu/manga_text_bubble_detect_translate/blob/main/wd_lab/v4_13600/%23cont/003l_cont.jpg)
+![Example 1](https://github.com/VincentQQu/manga_text_bubble_detect_translate/blob/main/wd_lab/v4_13600/%23cont/003l_cont.jpg)
+![Example 2](https://github.com/VincentQQu/manga_text_bubble_detect_translate/blob/main/wd_lab/v4_13600/%23cont/003r_cont.jpg)
 
 ### How to Use
 You can see some example outputs in exds/v4_13600/
