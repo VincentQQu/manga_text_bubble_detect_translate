@@ -40,6 +40,6 @@ You can see some example outputs in exds/v4_13600/
 
 
 ### Files for Training
-preproc.py: data preprocessing for dataset labelled with white-balck mask
-preproc_xml.py: data preprocessing for dataset labelled with xml (like Manga109)
-detect_bubble_xml_2.py to construct and train models
+* preproc.py: data preprocessing for dataset labelled with white-balck mask
+* preproc_xml.py: data preprocessing for dataset labelled with xml (like Manga109)
+* detect_bubble_xml_2.py to construct and train models
