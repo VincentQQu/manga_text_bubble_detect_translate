@@ -36,5 +36,4 @@ For translation: pytesseract==0.3.8, googletrans==4.0.0rc1
 You can see some example outputs in exds/v4_13600/
 1. clear the folder exds/v4_13600/
 2. put the manga pages (better single pages in resolution 250x750) you want to translate into the folder.
-3. python3 word_detect.py to generate text bubbles
-4. python3 word_detect_and_translate.py to generate text bubbles and translate
+3. python3 word_detect.py to generate text bubbles, or python3 word_detect_and_translate.py to generate text bubbles and translate
