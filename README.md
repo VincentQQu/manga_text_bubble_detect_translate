@@ -18,6 +18,7 @@ The text bubble detector is effective while the OCR is not effective (especially
 
 ### Requirements
 For bubble detection: matplotlib==3.3.0, numpy==1.18.5, opencv_python_headless==4.5.4.58, Pillow==9.4.0,tensorflow==2.11.0
+
 For translation: pytesseract==0.3.8, googletrans==4.0.0rc1
 
 ### How to Use
