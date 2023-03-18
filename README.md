@@ -17,8 +17,10 @@ The text bubble detector is effective while the OCR is not effective (especially
 #### Predicted Masks
 <img src="https://github.com/VincentQQu/manga_text_bubble_detect_translate/blob/main/wd_lab/v4_13600/003l/003l_um.jpg" width="400"/> <img src="https://github.com/VincentQQu/manga_text_bubble_detect_translate/blob/main/wd_lab/v4_13600/003r/003r_um.jpg" width="405"/>
 
+#### Convert to Contour Bounding Boxes
 <img src="https://github.com/VincentQQu/manga_text_bubble_detect_translate/blob/main/wd_lab/v4_13600/%23cont/003l_cont.jpg" width="400"/> <img src="https://github.com/VincentQQu/manga_text_bubble_detect_translate/blob/main/wd_lab/v4_13600/%23cont/003r_cont.jpg" width="405"/> 
 
+#### Translate
 
 ### Requirements
 For bubble detection: matplotlib==3.3.0, numpy==1.18.5, opencv_python_headless==4.5.4.58, Pillow==9.4.0,tensorflow==2.11.0
