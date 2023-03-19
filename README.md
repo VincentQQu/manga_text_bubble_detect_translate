@@ -34,6 +34,7 @@ For translation: pytesseract==0.3.8, googletrans==4.0.0rc1
 
 ### How to Use
 You can find some example outputs in _exds/v4_13600/_
+
 0. Run **pip3 install -r requirements.txt** in terminal to install required packages
 1. clear the folder _exds/v4_13600/_
 2. put the manga pages (better single pages in resolution 250x750) you want to translate into the folder.
