@@ -15,14 +15,14 @@ The text bubble detector is effective while the OCR is not effective (especially
 ### Testing Results
 
 #### Original Manga Pages
-<img src="wd_lab/v4_13600/003l.jpg" height="600"/> <img src="wd_lab/v4_13600/003r.jpg" height="600"/>
+<img src="wd_lab/v4_13600/003l.jpg" height="500"/> <img src="wd_lab/v4_13600/003r.jpg" height="500"/>
 
 
 #### Predicted Masks
-<img src="wd_lab/v4_13600/003l/003l_um.jpg" height="600"/> <img src="wd_lab/v4_13600/003r/003r_um.jpg" height="500"/>
+<img src="wd_lab/v4_13600/003l/003l_um.jpg" height="500"/> <img src="wd_lab/v4_13600/003r/003r_um.jpg" height="500"/>
 
 #### Convert to Contour Bounding Boxes
-<img src="wd_lab/v4_13600/%23cont/003l_cont.jpg" height="600"/>  <img src="wd_lab/v4_13600/%23cont/003r_cont.jpg" height="500"/> 
+<img src="wd_lab/v4_13600/%23cont/003l_cont.jpg" height="500"/>  <img src="wd_lab/v4_13600/%23cont/003r_cont.jpg" height="500"/> 
 
 #### Extract Bubble Boxes One by One, and Translate after Superresolution
 
