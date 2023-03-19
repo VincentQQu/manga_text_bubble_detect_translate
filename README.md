@@ -33,13 +33,13 @@ For bubble detection: matplotlib==3.3.0, numpy==1.18.5, opencv_python_headless==
 For translation: pytesseract==0.3.8, googletrans==4.0.0rc1
 
 ### How to Use
-You can see some example outputs in exds/v4_13600/
-1. clear the folder exds/v4_13600/
+You can see some example outputs in _exds/v4_13600/_
+1. clear the folder _exds/v4_13600/_
 2. put the manga pages (better single pages in resolution 250x750) you want to translate into the folder.
-3. python3 word_detect.py to generate text bubbles, or python3 word_detect_and_translate.py to generate text bubbles and translate
+3. **python3 word_detect.py** to generate text bubbles, or **python3 word_detect_and_translate.py** to generate text bubbles and translate
 
 
 ### Files for Training
-* <em>preproc.py</em>: data preprocessing for dataset labelled with white-balck mask
-* preproc_xml.py: data preprocessing for dataset labelled with xml (like Manga109)
-* detect_bubble_xml_2.py to construct and train models
+* **preproc.py**: data preprocessing for dataset labelled with white-balck mask
+* **preproc_xml.py**: data preprocessing for dataset labelled with xml (like Manga109)
+* **detect_bubble_xml_2.py**: file to construct and train models
