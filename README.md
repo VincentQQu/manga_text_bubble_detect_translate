@@ -41,7 +41,7 @@ You can find some example outputs in _exds/v4_13600/_
 3. **python3 word_detect.py** to generate text bubbles, or **python3 word_detect_and_translate.py** to generate text bubbles and translate
 
 
-### Files for Training Text Bubble Detector
+### Files to Train Text Bubble Detector
 * **preproc.py**: data preprocessing for dataset labelled with white-balck mask
 * **preproc_xml.py**: data preprocessing for dataset labelled with xml (like Manga109)
 * **detect_bubble_xml_2.py**: file to construct and train models
