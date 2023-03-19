@@ -1,12 +1,12 @@
-# Manga Text Bubble Detector to Translate
-This is a repository for a deep learning model that can detect text bubbles in manga and feed them into a translator.
+# Manga (Comic) Text Bubble Detector to Translate
+This is a repository for a deep learning model that can detect text bubbles in manga (comic) and feed them into a translator.
 
 
 ### Work Flow
-1. single manga page =>
-2. text bubble detector to crop text bubbles =>
-3. optical character recognition engine to extract text from bubbles (tesseract OCR) => 
-4. google translate API
+1. Single manga page
+2. Text bubble detector to crop text bubbles
+3. Optical character recognition engine to extract text from bubbles (tesseract OCR)
+4. Google translate API
 
 **Note**: The text bubble detector is a UNet with depthwise/transpose convlutional layers, trained with personal dataset and [Manga109](http://www.manga109.org/en/).
 
