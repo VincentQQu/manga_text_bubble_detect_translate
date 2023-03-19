@@ -17,7 +17,7 @@ The text bubble detector is effective while the OCR is not effective (especially
 #### Original Manga Pages
 <img src="https://github.com/VincentQQu/manga_text_bubble_detect_translate/blob/main/wd_lab/v4_13600/003l.jpg" width="400"/> <img src="https://github.com/VincentQQu/manga_text_bubble_detect_translate/blob/main/wd_lab/v4_13600/003r.jpg" width="407"/>
 
-<img src="wd_lab/v4_13600/003l.jpg" width="400"/> <img 
+<img src="wd_lab/v4_13600/003l.jpg" height="400"/> <img src="wd_lab/v4_13600/003r.jpg" height="400"/>
 
 
 #### Predicted Masks
