@@ -22,7 +22,7 @@ The text bubble detector is effective while the OCR is not effective (especially
 <img src="wd_lab/v4_13600/003l/003l_um.jpg" height="600"/> <img src="wd_lab/v4_13600/003r/003r_um.jpg" height="600"/>
 
 #### Convert to Contour Bounding Boxes
-<img src="wd_lab/v4_13600/%23cont/003l_cont.jpg" width=height="600"/> <img src="wd_lab/v4_13600/%23cont/003r_cont.jpg" height="600"/> 
+<img src="wd_lab/v4_13600/%23cont/003r_cont.jpg" height="600"/>  <img src="wd_lab/v4_13600/%23cont/003r_cont.jpg" height="600"/> 
 
 #### Extract Bubble Boxes One by One, and Translate after Superresolution
 
