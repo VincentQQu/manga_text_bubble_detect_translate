@@ -3,10 +3,11 @@ This is a repository for a deep learning model that can detect text bubbles in m
 
 
 ### Work Flow
-1. Single manga page
-2. Text bubble detector to crop text bubbles
-3. Optical character recognition engine to extract text from bubbles (tesseract OCR)
-4. Google translate API
+1. Read a single manga page
+2. Feed into a text bubble detector to crop text bubbles
+3. Use an optical character recognition engine to extract text from bubbles (tesseract OCR)
+4. Use google translate API to translate
+5. to-do: Insert the translated text into the text bubbles (The translations are currently in a txt file.)
 
 **Note**: The text bubble detector is a UNet with depthwise/transpose convlutional layers, trained with personal dataset and [Manga109](http://www.manga109.org/en/).
 
@@ -45,3 +46,6 @@ You can find some example outputs in _exds/v4_13600/_
 * **preproc.py**: data preprocessing for dataset labelled with white-balck mask
 * **preproc_xml.py**: data preprocessing for dataset labelled with xml (like Manga109)
 * **detect_bubble_xml_2.py**: file to construct and train models
+
+
+### To Be Updated
